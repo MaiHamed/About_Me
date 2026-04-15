@@ -1,13 +1,22 @@
-<h1 align="center">Hi 👋, I'm Mai</h1>
-<h3 align="center">Computer Engineering Student | Future Software Engineer 💻✨</h3>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">
+    Hi , I'm Mai Hamed
+  </span>
+</h1>
+
+<h3 align="center">
+  💻 Computer Engineering Student | Future Software Engineer ✨
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Developer;C%2B%2B+%7C+Java+%7C+C%23;I+love+building+cool+projects;Always+learning+new+things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=✨+Passionate+Developer;💻+C%2B%2B+%7C+Java+%7C+C%23;🚀+Building+Cool+Projects;+Always+Learning&center=true&width=550&height=50&color=ff6ec4&vCenter=true&size=22">
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
 
-## 🌸 About Me
+##  About Me
 - 🎓 Computer Engineering student  
 - 💻 I enjoy **frontend & backend development**  
 - 🎮 I love story-based games like *Life is Strange* & *Detroit: Become Human*  
@@ -47,8 +56,8 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="maiabostate2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mai-hamed-0bba6b356/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
