@@ -56,10 +56,18 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="maiabostate2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:maiabostate2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/mai-hamed-0bba6b356/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MaiHamed/MaiHamed/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 ---
 
 <p align="center">✨ Thanks for visiting my profile ✨</p>
